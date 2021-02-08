@@ -1,1 +1,1 @@
-worker: nohup java -Dnogui=true -jar JMusicBot-0.3.2.jar
+worker: nohup java -Dnogui=true -jar JMusicBot-0.3.3.jar
